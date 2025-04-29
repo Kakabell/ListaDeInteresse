@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .interest-item {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  #addButton {
+    margin-left: 10px;
+  }
